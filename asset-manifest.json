@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://namitkumarsingh97.github.io/csb-zcwdu/static/css/main.3dfde658.chunk.css",
+    "main.js": "https://namitkumarsingh97.github.io/csb-zcwdu/static/js/main.076a1579.chunk.js",
+    "main.js.map": "https://namitkumarsingh97.github.io/csb-zcwdu/static/js/main.076a1579.chunk.js.map",
+    "runtime-main.js": "https://namitkumarsingh97.github.io/csb-zcwdu/static/js/runtime-main.2383a968.js",
+    "runtime-main.js.map": "https://namitkumarsingh97.github.io/csb-zcwdu/static/js/runtime-main.2383a968.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://namitkumarsingh97.github.io/csb-zcwdu/static/css/2.cbedb215.chunk.css",
+    "static/js/2.b58da755.chunk.js": "https://namitkumarsingh97.github.io/csb-zcwdu/static/js/2.b58da755.chunk.js",
+    "static/js/2.b58da755.chunk.js.map": "https://namitkumarsingh97.github.io/csb-zcwdu/static/js/2.b58da755.chunk.js.map",
+    "index.html": "https://namitkumarsingh97.github.io/csb-zcwdu/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://namitkumarsingh97.github.io/csb-zcwdu/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.3dfde658.chunk.css.map": "https://namitkumarsingh97.github.io/csb-zcwdu/static/css/main.3dfde658.chunk.css.map",
+    "static/js/2.b58da755.chunk.js.LICENSE.txt": "https://namitkumarsingh97.github.io/csb-zcwdu/static/js/2.b58da755.chunk.js.LICENSE.txt",
+    "static/media/Picture.59602c0b.png": "https://namitkumarsingh97.github.io/csb-zcwdu/static/media/Picture.59602c0b.png",
+    "static/media/Slide-1.2550ab29.png": "https://namitkumarsingh97.github.io/csb-zcwdu/static/media/Slide-1.2550ab29.png",
+    "static/media/Slide-2.c4db370f.png": "https://namitkumarsingh97.github.io/csb-zcwdu/static/media/Slide-2.c4db370f.png",
+    "static/media/Slide-3.5eec043a.png": "https://namitkumarsingh97.github.io/csb-zcwdu/static/media/Slide-3.5eec043a.png",
+    "static/media/updatedResume-Namit Kumar Singh.dcff7ae3.pdf": "https://namitkumarsingh97.github.io/csb-zcwdu/static/media/updatedResume-Namit Kumar Singh.dcff7ae3.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2383a968.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.b58da755.chunk.js",
+    "static/css/main.3dfde658.chunk.css",
+    "static/js/main.076a1579.chunk.js"
+  ]
+}
